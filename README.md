@@ -1,0 +1,2 @@
+# pasha-startup
+my startup
